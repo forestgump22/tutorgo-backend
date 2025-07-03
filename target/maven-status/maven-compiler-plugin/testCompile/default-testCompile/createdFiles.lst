@@ -1,0 +1,16 @@
+tutorgo\com\service\EnlaceSesionServiceImplTest.class
+tutorgo\com\service\NotificacionServiceImplTest.class
+tutorgo\com\service\TutorServiceImplTest$GetAllTutoresTests.class
+tutorgo\com\service\NotificacionServiceImplTest$GetMisNotificacionesTests.class
+tutorgo\com\service\PagoServiceImplTest$GetHistorialTests.class
+tutorgo\com\service\SesionProgramadaServiceImplTest.class
+tutorgo\com\service\PagoServiceImplTest.class
+tutorgo\com\service\ResenaServiceImplTest.class
+tutorgo\com\service\DisponibilidadServiceImplTest.class
+tutorgo\com\TutorgoApplicationTests.class
+tutorgo\com\service\AuthServiceImplTest.class
+tutorgo\com\service\SesionServiceImplTest.class
+tutorgo\com\service\TutorServiceImplTest.class
+tutorgo\com\service\TutorServiceImplTest$GetTutorProfileTests.class
+tutorgo\com\service\PagoServiceImplTest$ProcesarPagoTests.class
+tutorgo\com\service\SesionServiceImplTest$ReservarTutoriaTests.class
